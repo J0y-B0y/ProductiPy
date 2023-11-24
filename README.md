@@ -1,4 +1,4 @@
-# CPS 109 Assignment - Toronto Metropolitan University
+# CPS 109 Assignment - ProductiPy
 **Author:** Divjot Singh
 
 ## Assignment Problem Statement:
